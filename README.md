@@ -1,3 +1,10 @@
+# Rbay
+This is a project that aims to simulate a bidding platform with the goal of studying and applying some of the main concepts and features of the database/caching tool Redis
+
+Link to the Udemy course: https://udemy.com/course/redis-the-complete-developers-guide-p/
+
+A initial codebase was provided and I'll be incrementaly addding features 
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
